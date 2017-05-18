@@ -84,7 +84,7 @@ Don't hesitate to send us feedback at [bettercodehub@sig.eu](mailto://bettercode
 
 **Let's build some great software** 😊
 
-Go, go, go and see you at Voxxed Days Athens! 
+Go, go, go and see you at Autonomous Driving Technology World Explo 
 
-[Yiannis](https://github.com/ykanell) and [Michiel](https://github.com/michielcuijpers)
+[Maria](https://github.com/mtsheeran) and [Kay](https://github.com/grosskop)
 
