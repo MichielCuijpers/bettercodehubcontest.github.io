@@ -26,7 +26,11 @@
 * **Private**? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) and mention Autonomous Driving Technology World Expo. During the event: come to the SIG booth.
 
 ### How to register for the contest
-To _register_ the participants of the contest we use a scoreboard. To be on that scoreboard please send us a Pull Request with your Better Code Hub Badge code [here](https://github.com/bettercodehubcontest/bettercodehubcontest.github.io/blob/master/BCHScoreBoard.md) or send us an email with your BCH badge code. After five o'clock on Friday May 19 we will no longer accept your Pull Request.
+To _register_ the participants of the contest we use a scoreboard. To be on that scoreboard please send us 
+* a Pull Request with your Better Code Hub badge code [here](https://github.com/bettercodehubcontest/bettercodehubcontest.github.io/blob/master/BCHScoreBoard.md) 
+* or send us an email with your badge code. 
+
+After five o'clock on Friday May 19 we will no longer accept your registration.
 
 ### How to get started! 
 
