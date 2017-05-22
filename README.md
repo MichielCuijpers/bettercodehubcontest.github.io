@@ -9,7 +9,10 @@ Developers attending the [Autonomous Vehicle Technology World Expo](http://www.a
 Right up until the event, through 19 June 2017
 
 ## How will the winner be determined?
-The [Better Code Hub](https://bettercodehub.com) scores your team's code against our 10 guidelines for maintanable software. The highest score wins! The winner will be notified and presented with a prize at the SIG booth (AV6000) during the exhibition.
+The [Better Code Hub](https://bettercodehub.com) scores your team's code against our 10 guidelines for maintanable software.
+
+The highest score wins! The winner will be notified and presented with a prize at the SIG booth (AV6000) during the exhibition.
+
 ![10 guidelines](https://cdn-images-1.medium.com/max/1440/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
 ## How do I enter?
