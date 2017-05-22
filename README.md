@@ -61,16 +61,18 @@ Of course, you can create the configuration file directly, and place it to the r
 * **Solidity** in your repo? To analyze that languange too please add [- solidity] to the configuration file as shown in the example above. 
 
 
-**Support and PRO License** 
+**Support and PRO License**
 
-* If needed, get support through bettercodehub@sig.eu
+If needed, get support through bettercodehub@sig.eu
 
 **We'd like to hear from you**
+
 Don't hesitate to send us feedback at [bettercodehub@sig.eu](mailto://bettercodehub@sig.eu]). 
 
 **Let's build some great software** 😊
 
 Go, go, go and see you at the Autonomous Vehicle Technology World Expo!
 
+Best,
 [Maria](https://github.com/mtsheeran) and [Kay](https://github.com/grosskop)
 
