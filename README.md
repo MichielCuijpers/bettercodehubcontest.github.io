@@ -13,8 +13,6 @@ The [Better Code Hub](https://bettercodehub.com) scores your team's code against
 
 The highest score wins! The winner will be notified and presented with a prize at the SIG booth (AV6000) during the exhibition.
 
-![10 guidelines](https://cdn-images-1.medium.com/max/1440/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
-
 ## How do I enter?
 **Two easy steps:**
 1. Go to [bettercodehub.com](https://bettercodehub.com) and log in [FREE] with your GitHub account
