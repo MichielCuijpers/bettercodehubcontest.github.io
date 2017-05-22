@@ -18,6 +18,7 @@ The winner will be notified and presented with a prize at the SIG booth (AV6000)
 1. Go to [bettercodehub.com](https://bettercodehub.com) and log in [FREE] with your GitHub account
 
 Private repo? E-mail your name and personal GitHub handle to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) and mention Autonomous Vehicle Technology World Expo.
+
 2. Send us a Pull Request with your Better Code Hub badge code [here](https://github.com/bettercodehubcontest/bettercodehubcontest.github.io/blob/master/BCHScoreBoard.md) or send us an e-mail with your badge code. 
 
 ## More Contest Details
