@@ -1,6 +1,6 @@
 
 ## What's this contest all about?
-Improving the quality of your code with the [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group (SIG)](https://www.sig.eu)
+Improving the quality of your code with the [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group (SIG)](https://www.sig.eu).
 
 ## Who can take part?
 Developers attending the [Autonomous Vehicle Technology World Expo](http://www.autonomousvehicletechnologyworldexpo.com)
